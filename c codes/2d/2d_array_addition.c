@@ -42,9 +42,6 @@ int main()
         printf("\n");
     }
 
-
-
-
 }
 /*
 3 3

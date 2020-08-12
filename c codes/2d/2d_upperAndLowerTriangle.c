@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    int row,col, i,j,  arr[10][10], transpose[10][10], sum=0;
+    int row,col, i,j,  arr[10][10], sum=0;
     printf("Enter row & col: ");
     scanf("%d %d", &row, &col);
     printf("Enter First Matrix: \n");
